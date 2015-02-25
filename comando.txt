@@ -1,0 +1,1 @@
+php localiza.php termos.txt

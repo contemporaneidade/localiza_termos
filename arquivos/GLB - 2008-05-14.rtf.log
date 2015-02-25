@@ -1,0 +1,7 @@
+<LOGSESSIONS>
+  <LOGS SECS_1901="3473002888" ISODATE="2011-01-20T19:01:28">
+    <TransformMod oldSel="1@33,149@44" newSel="1@33" afterOldSel="150@44" beforeOldSel="23@32"/>
+    <TransformMod oldSel="1@33,1@33" newSel="1@33" afterOldSel="1@34" beforeOldSel="23@32"/>
+  </LOGS>
+  <DocumentState Compact="0,3473002888,8226, !"/>
+</LOGSESSIONS>

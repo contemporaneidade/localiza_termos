@@ -1,0 +1,2786 @@
+backup of FSP - 2008-11-23 4.rtf
+ - governo: 1
+
+backup of GLB - 2002-05-16 5.rtf
+ - governo: 1
+
+backup of GLB - 2003-12-03.rtf
+ - congresso: 2
+ - governo: 1
+
+backup of GLB - 2004-02-15.rtf
+ - governo: 5
+
+backup of GLB - 2004-03-06 2.rtf
+ - governo: 5
+
+backup of GLB - 2004-03-06.rtf
+ - governo: 1
+
+backup of GLB - 2004-08-11 2.rtf
+ - governo: 2
+
+backup of GLB - 2004-09-04.rtf
+ - governo: 6
+
+backup of GLB - 2006-03-10.rtf
+ - governo: 3
+
+backup of GLB - 2006-06-26 2.rtf
+ - governo: 4
+
+backup of GLB - 2006-07-09.rtf
+ - governo: 5
+
+backup of GLB - 2008-05-14.rtf
+ - governo: 1
+
+FSP - 2001-01-14 3.rtf
+ - congresso: 1
+
+FSP - 2001-01-14.rtf
+ - governo: 4
+
+FSP - 2001-01-21.rtf
+ - governo: 3
+
+FSP - 2001-02-02.rtf
+ - governo: 1
+
+FSP - 2001-03-14.rtf
+ - governo: 1
+
+FSP - 2001-04-15.rtf
+ - governo: 7
+ - congresso: 1
+
+FSP - 2001-05-13 2.rtf
+ - governo: 1
+
+FSP - 2001-05-13.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2001-05-20.rtf
+ - governo: 2
+ - congresso: 1
+
+FSP - 2001-07-05.rtf
+ - governo: 6
+
+FSP - 2001-07-09 2.rtf
+ - governo: 9
+
+FSP - 2001-07-09.rtf
+ - governo: 4
+
+FSP - 2001-07-14.rtf
+ - governo: 1
+
+FSP - 2001-07-15 2.rtf
+ - governo: 9
+ - congresso: 1
+
+FSP - 2001-07-15 3.rtf
+ - governo: 1
+
+FSP - 2001-07-15.rtf
+ - governo: 1
+
+FSP - 2001-08-17 2.rtf
+ - governo: 1
+
+FSP - 2001-08-17.rtf
+ - governo: 7
+ - congresso: 1
+
+FSP - 2001-08-22.rtf
+ - governo: 4
+
+FSP - 2001-08-23 2.rtf
+ - governo: 1
+
+FSP - 2001-08-23.rtf
+ - governo: 1
+
+FSP - 2001-08-25 2.rtf
+ - governo: 1
+
+FSP - 2001-08-25.rtf
+ - congresso: 1
+ - governo: 3
+
+FSP - 2001-08-26 2.rtf
+ - governo: 4
+
+FSP - 2001-08-26.rtf
+ - governo: 5
+
+FSP - 2001-08-30 2.rtf
+ - governo: 5
+
+FSP - 2001-08-30 3.rtf
+ - governo: 1
+
+FSP - 2001-08-30 4.rtf
+ - governo: 3
+
+FSP - 2001-09-01 3.rtf
+ - governo: 5
+
+FSP - 2001-09-01 4.rtf
+ - governo: 1
+
+FSP - 2001-09-01 5.rtf
+ - governo: 1
+
+FSP - 2001-09-02 2.rtf
+ - governo: 6
+
+FSP - 2001-09-03.rtf
+ - governo: 10
+
+FSP - 2001-09-05 2.rtf
+ - governo: 1
+
+FSP - 2001-09-09 2.rtf
+ - governo: 2
+
+FSP - 2001-09-13.rtf
+ - governo: 2
+
+FSP - 2001-09-16.rtf
+ - governo: 1
+
+FSP - 2001-10-18.rtf
+ - governo: 2
+
+FSP - 2001-10-30.rtf
+ - governo: 1
+
+FSP - 2001-11-13.rtf
+ - governo: 1
+
+FSP - 2001-11-20 2.rtf
+ - governo: 1
+
+FSP - 2001-11-20.rtf
+ - governo: 4
+
+FSP - 2001-11-22.rtf
+ - governo: 1
+
+FSP - 2001-12-07 2.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2001-12-16 2.rtf
+ - governo: 1
+
+FSP - 2001-12-20.rtf
+ - governo: 1
+ - congresso: 1
+
+FSP - 2002-01-06 2.rtf
+ - governo: 1
+
+FSP - 2002-01-27.rtf
+ - governo: 3
+
+FSP - 2002-01-30.rtf
+ - governo: 1
+
+FSP - 2002-03-06.rtf
+ - governo: 2
+
+FSP - 2002-03-10.rtf
+ - governo: 6
+ - congresso: 1
+
+FSP - 2002-03-11.rtf
+ - governo: 1
+
+FSP - 2002-03-21 2.rtf
+ - governo: 1
+
+FSP - 2002-03-21.rtf
+ - governo: 2
+
+FSP - 2002-03-22.rtf
+ - governo: 2
+
+FSP - 2002-03-31.rtf
+ - governo: 1
+
+FSP - 2002-05-13.rtf
+ - governo: 2
+
+FSP - 2002-05-14.rtf
+ - governo: 1
+
+FSP - 2002-05-19.rtf
+ - governo: 3
+
+FSP - 2002-05-23 2.rtf
+ - governo: 2
+
+FSP - 2002-05-23.rtf
+ - governo: 1
+
+FSP - 2002-05-25.rtf
+ - governo: 2
+
+FSP - 2002-06-03.rtf
+ - governo: 1
+
+FSP - 2002-06-26.rtf
+ - governo: 1
+
+FSP - 2002-07-28.rtf
+ - congresso: 1
+
+FSP - 2002-08-04.rtf
+ - governo: 1
+
+FSP - 2002-08-08.rtf
+ - governo: 3
+
+FSP - 2002-08-11.rtf
+ - governo: 4
+ - congresso: 1
+
+FSP - 2002-08-18.rtf
+ - governo: 2
+ - congresso: 4
+
+FSP - 2002-08-21.rtf
+ - governo: 2
+
+FSP - 2002-08-28.rtf
+ - governo: 2
+
+FSP - 2002-08-31.rtf
+ - governo: 1
+
+FSP - 2002-09-08.rtf
+ - governo: 1
+
+FSP - 2002-09-10.rtf
+ - governo: 3
+
+FSP - 2002-10-06.rtf
+ - governo: 3
+
+FSP - 2002-10-21.rtf
+ - governo: 6
+ - congresso: 1
+
+FSP - 2002-10-30.rtf
+ - governo: 1
+
+FSP - 2002-11-03 3.rtf
+ - governo: 4
+ - congresso: 2
+
+FSP - 2002-11-03 4.rtf
+ - governo: 4
+ - congresso: 2
+
+FSP - 2002-11-03 5.rtf
+ - congresso: 1
+
+FSP - 2002-11-03.rtf
+ - governo: 1
+
+FSP - 2002-11-05.rtf
+ - governo: 1
+
+FSP - 2002-11-10 3.rtf
+ - congresso: 5
+
+FSP - 2002-11-13.rtf
+ - governo: 1
+
+FSP - 2002-11-22.rtf
+ - governo: 6
+ - congresso: 1
+
+FSP - 2002-12-02.rtf
+ - governo: 1
+
+FSP - 2002-12-08.rtf
+ - governo: 2
+
+FSP - 2002-12-30.rtf
+ - governo: 8
+
+FSP - 2003-01-01.rtf
+ - governo: 1
+
+FSP - 2003-01-05.rtf
+ - governo: 4
+
+FSP - 2003-01-07.rtf
+ - governo: 5
+
+FSP - 2003-01-11.rtf
+ - governo: 8
+ - congresso: 1
+
+FSP - 2003-01-16.rtf
+ - governo: 1
+
+FSP - 2003-01-27.rtf
+ - governo: 12
+
+FSP - 2003-02-06.rtf
+ - governo: 2
+
+FSP - 2003-02-09 2.rtf
+ - governo: 5
+
+FSP - 2003-02-09.rtf
+ - governo: 4
+
+FSP - 2003-02-11 2.rtf
+ - governo: 1
+
+FSP - 2003-02-13.rtf
+ - governo: 3
+
+FSP - 2003-02-15.rtf
+ - governo: 1
+
+FSP - 2003-02-17 4.rtf
+ - governo: 1
+
+FSP - 2003-03-04.rtf
+ - congresso: 1
+ - governo: 10
+
+FSP - 2003-03-09.rtf
+ - governo: 1
+
+FSP - 2003-03-22.rtf
+ - governo: 1
+
+FSP - 2003-03-26.rtf
+ - governo: 5
+
+FSP - 2003-04-13.rtf
+ - governo: 2
+
+FSP - 2003-05-02.rtf
+ - governo: 2
+
+FSP - 2003-05-03.rtf
+ - governo: 3
+
+FSP - 2003-05-08 3.rtf
+ - governo: 1
+
+FSP - 2003-05-08.rtf
+ - governo: 1
+
+FSP - 2003-05-18.rtf
+ - governo: 1
+
+FSP - 2003-06-07.rtf
+ - governo: 1
+
+FSP - 2003-06-08.rtf
+ - governo: 5
+
+FSP - 2003-06-09 2.rtf
+ - governo: 1
+
+FSP - 2003-06-18.rtf
+ - governo: 2
+
+FSP - 2003-06-24 3.rtf
+ - governo: 2
+
+FSP - 2003-06-25.rtf
+ - congresso: 1
+
+FSP - 2003-07-10 2.rtf
+ - governo: 2
+
+FSP - 2003-07-10.rtf
+ - governo: 3
+
+FSP - 2003-07-17 2.rtf
+ - governo: 3
+
+FSP - 2003-07-17.rtf
+ - governo: 3
+
+FSP - 2003-07-21.rtf
+ - governo: 1
+
+FSP - 2003-07-29.rtf
+ - governo: 1
+
+FSP - 2003-08-03.rtf
+ - governo: 2
+
+FSP - 2003-08-18.rtf
+ - governo: 1
+
+FSP - 2003-09-11.rtf
+ - governo: 2
+
+FSP - 2003-09-21.rtf
+ - governo: 1
+
+FSP - 2003-10-09 2.rtf
+ - governo: 2
+
+FSP - 2003-10-16.rtf
+ - governo: 1
+
+FSP - 2003-11-14.rtf
+ - governo: 1
+
+FSP - 2003-11-24.rtf
+ - governo: 1
+
+FSP - 2003-11-28.rtf
+ - governo: 2
+ - congresso: 1
+
+FSP - 2003-12-06 2.rtf
+ - governo: 2
+
+FSP - 2003-12-06 3.rtf
+ - governo: 2
+ - congresso: 1
+
+FSP - 2003-12-07 2.rtf
+ - governo: 1
+
+FSP - 2003-12-14 2.rtf
+ - governo: 1
+
+FSP - 2003-12-14.rtf
+ - governo: 2
+
+FSP - 2003-12-17.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2003-12-21.rtf
+ - governo: 1
+
+FSP - 2003-12-28.rtf
+ - governo: 11
+ - congresso: 1
+
+FSP - 2003-12-30.rtf
+ - governo: 2
+
+FSP - 2004-01-04.rtf
+ - governo: 8
+ - congresso: 2
+
+FSP - 2004-01-05 2.rtf
+ - governo: 1
+
+FSP - 2004-01-05.rtf
+ - governo: 2
+
+FSP - 2004-01-08.rtf
+ - governo: 2
+ - congresso: 1
+
+FSP - 2004-01-13.rtf
+ - governo: 1
+
+FSP - 2004-01-16.rtf
+ - governo: 1
+
+FSP - 2004-01-19 3.rtf
+ - governo: 3
+
+FSP - 2004-01-19 5.rtf
+ - governo: 1
+
+FSP - 2004-01-22.rtf
+ - governo: 5
+
+FSP - 2004-01-23.rtf
+ - governo: 1
+
+FSP - 2004-01-24.rtf
+ - governo: 1
+
+FSP - 2004-01-25.rtf
+ - governo: 2
+
+FSP - 2004-01-26 2.rtf
+ - governo: 3
+
+FSP - 2004-01-26.rtf
+ - governo: 4
+
+FSP - 2004-01-28.rtf
+ - congresso: 1
+
+FSP - 2004-02-01 2.rtf
+ - governo: 3
+ - congresso: 2
+
+FSP - 2004-02-01 3.rtf
+ - governo: 3
+
+FSP - 2004-02-01.rtf
+ - congresso: 2
+ - governo: 1
+
+FSP - 2004-02-07.rtf
+ - governo: 3
+ - congresso: 1
+
+FSP - 2004-02-28.rtf
+ - governo: 4
+
+FSP - 2004-03-13.rtf
+ - governo: 1
+
+FSP - 2004-03-22.rtf
+ - governo: 3
+ - congresso: 1
+
+FSP - 2004-03-24.rtf
+ - congresso: 1
+ - governo: 4
+
+FSP - 2004-04-06.rtf
+ - congresso: 2
+ - governo: 1
+
+FSP - 2004-04-07 2.rtf
+ - congresso: 4
+ - governo: 2
+
+FSP - 2004-04-07.rtf
+ - governo: 7
+
+FSP - 2004-04-08 2.rtf
+ - governo: 1
+
+FSP - 2004-04-08.rtf
+ - governo: 1
+
+FSP - 2004-04-09.rtf
+ - governo: 1
+
+FSP - 2004-04-11.rtf
+ - governo: 1
+
+FSP - 2004-04-12.rtf
+ - governo: 3
+
+FSP - 2004-04-14.rtf
+ - congresso: 1
+ - governo: 8
+
+FSP - 2004-04-26 2.rtf
+ - governo: 1
+
+FSP - 2004-04-26.rtf
+ - governo: 1
+
+FSP - 2004-05-02.rtf
+ - governo: 2
+
+FSP - 2004-05-05 2.rtf
+ - governo: 1
+
+FSP - 2004-05-05.rtf
+ - governo: 1
+ - congresso: 1
+
+FSP - 2004-05-06.rtf
+ - governo: 3
+
+FSP - 2004-05-13.rtf
+ - congresso: 1
+
+FSP - 2004-05-14 2.rtf
+ - governo: 1
+
+FSP - 2004-05-14 3.rtf
+ - congresso: 1
+ - governo: 2
+
+FSP - 2004-05-14.rtf
+ - governo: 1
+
+FSP - 2004-05-15 2.rtf
+ - governo: 1
+
+FSP - 2004-05-16 4.rtf
+ - governo: 1
+
+FSP - 2004-05-21.rtf
+ - governo: 2
+
+FSP - 2004-05-26.rtf
+ - governo: 1
+
+FSP - 2004-05-29 2.rtf
+ - governo: 2
+ - congresso: 1
+
+FSP - 2004-05-30 2.rtf
+ - governo: 1
+ - congresso: 1
+
+FSP - 2004-05-30.rtf
+ - congresso: 1
+ - governo: 3
+
+FSP - 2004-06-01 3.rtf
+ - governo: 1
+
+FSP - 2004-06-01 4.rtf
+ - governo: 1
+
+FSP - 2004-06-05 3.rtf
+ - governo: 5
+
+FSP - 2004-06-12.rtf
+ - governo: 1
+
+FSP - 2004-06-17 2.rtf
+ - governo: 1
+
+FSP - 2004-06-17.rtf
+ - governo: 1
+
+FSP - 2004-06-18.rtf
+ - governo: 4
+ - congresso: 1
+
+FSP - 2004-06-22.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2004-06-28.rtf
+ - governo: 3
+ - congresso: 1
+
+FSP - 2004-08-06.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2004-08-10.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2004-08-24.rtf
+ - congresso: 1
+ - governo: 2
+
+FSP - 2004-08-26.rtf
+ - governo: 2
+
+FSP - 2004-10-10.rtf
+ - governo: 2
+
+FSP - 2004-10-29.rtf
+ - governo: 1
+
+FSP - 2004-11-07.rtf
+ - governo: 4
+
+FSP - 2004-11-12.rtf
+ - congresso: 1
+
+FSP - 2004-11-18.rtf
+ - governo: 1
+
+FSP - 2004-12-13 3.rtf
+ - congresso: 1
+ - governo: 2
+
+FSP - 2004-12-23.rtf
+ - governo: 1
+
+FSP - 2005-01-04.rtf
+ - governo: 1
+
+FSP - 2005-01-14.rtf
+ - governo: 2
+
+FSP - 2005-01-30.rtf
+ - governo: 2
+
+FSP - 2005-02-13.rtf
+ - governo: 1
+
+FSP - 2005-02-27 2.rtf
+ - governo: 3
+
+FSP - 2005-03-11.rtf
+ - governo: 2
+
+FSP - 2005-03-12.rtf
+ - congresso: 1
+
+FSP - 2005-04-05.rtf
+ - governo: 1
+
+FSP - 2005-04-16.rtf
+ - governo: 2
+
+FSP - 2005-04-17.rtf
+ - governo: 1
+
+FSP - 2005-04-19 2.rtf
+ - governo: 1
+
+FSP - 2005-04-26 2.rtf
+ - congresso: 3
+
+FSP - 2005-04-28 2.rtf
+ - governo: 3
+
+FSP - 2005-04-28.rtf
+ - governo: 1
+
+FSP - 2005-04-30.rtf
+ - governo: 2
+
+FSP - 2005-05-06.rtf
+ - governo: 1
+
+FSP - 2005-05-14.rtf
+ - governo: 1
+
+FSP - 2005-06-05.rtf
+ - congresso: 1
+
+FSP - 2005-06-15.rtf
+ - congresso: 2
+ - governo: 1
+
+FSP - 2005-06-19.rtf
+ - governo: 2
+
+FSP - 2005-06-23 2.rtf
+ - governo: 1
+ - congresso: 1
+
+FSP - 2005-06-23.rtf
+ - congresso: 1
+
+FSP - 2005-07-21.rtf
+ - congresso: 1
+
+FSP - 2005-08-19.rtf
+ - governo: 2
+
+FSP - 2005-09-07.rtf
+ - governo: 2
+ - congresso: 1
+
+FSP - 2005-09-25.rtf
+ - governo: 1
+
+FSP - 2005-10-10.rtf
+ - governo: 5
+ - congresso: 1
+
+FSP - 2005-10-26.rtf
+ - governo: 1
+
+FSP - 2005-11-15.rtf
+ - governo: 2
+
+FSP - 2005-11-20 3.rtf
+ - governo: 1
+
+FSP - 2005-11-21 2.rtf
+ - governo: 4
+ - congresso: 2
+
+FSP - 2005-12-18.rtf
+ - governo: 11
+
+FSP - 2006-01-30.rtf
+ - governo: 14
+
+FSP - 2006-02-04 2.rtf
+ - congresso: 1
+
+FSP - 2006-02-04.rtf
+ - governo: 1
+
+FSP - 2006-02-06.rtf
+ - governo: 3
+
+FSP - 2006-02-07.rtf
+ - governo: 1
+
+FSP - 2006-03-27.rtf
+ - governo: 1
+
+FSP - 2006-04-20.rtf
+ - governo: 1
+
+FSP - 2006-04-21 2.rtf
+ - governo: 2
+ - congresso: 1
+
+FSP - 2006-04-21.rtf
+ - governo: 1
+
+FSP - 2006-04-25 2.rtf
+ - congresso: 1
+
+FSP - 2006-04-29.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2006-05-10.rtf
+ - governo: 2
+
+FSP - 2006-05-29 2.rtf
+ - governo: 1
+
+FSP - 2006-05-29 3.rtf
+ - governo: 2
+
+FSP - 2006-06-05.rtf
+ - governo: 4
+ - congresso: 2
+
+FSP - 2006-06-29.rtf
+ - congresso: 1
+ - governo: 2
+
+FSP - 2006-06-30.rtf
+ - congresso: 2
+
+FSP - 2006-07-04 2.rtf
+ - congresso: 3
+
+FSP - 2006-07-04.rtf
+ - congresso: 3
+ - governo: 1
+
+FSP - 2006-07-05.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2006-07-07 2.rtf
+ - governo: 3
+
+FSP - 2006-07-07 3.rtf
+ - governo: 1
+ - congresso: 1
+
+FSP - 2006-07-08.rtf
+ - governo: 3
+ - congresso: 1
+
+FSP - 2006-07-09 12.rtf
+ - congresso: 3
+ - governo: 1
+
+FSP - 2006-07-09 14.rtf
+ - congresso: 1
+
+FSP - 2006-07-09 5.rtf
+ - governo: 5
+
+FSP - 2006-07-09 6.rtf
+ - governo: 1
+
+FSP - 2006-07-09 9.rtf
+ - congresso: 1
+
+FSP - 2006-07-10.rtf
+ - congresso: 1
+
+FSP - 2006-07-12 5.rtf
+ - governo: 1
+
+FSP - 2006-07-12 6.rtf
+ - governo: 4
+ - congresso: 3
+
+FSP - 2006-07-14.rtf
+ - governo: 1
+
+FSP - 2006-07-16 3.rtf
+ - governo: 1
+
+FSP - 2006-07-16 4.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2006-07-16 6.rtf
+ - congresso: 1
+
+FSP - 2006-07-21.rtf
+ - congresso: 1
+
+FSP - 2006-07-23 10.rtf
+ - congresso: 1
+
+FSP - 2006-07-23 3.rtf
+ - governo: 1
+
+FSP - 2006-07-23 4.rtf
+ - governo: 4
+
+FSP - 2006-07-23 5.rtf
+ - governo: 1
+
+FSP - 2006-07-23 6.rtf
+ - congresso: 1
+
+FSP - 2006-07-23 9.rtf
+ - congresso: 1
+
+FSP - 2006-07-23.rtf
+ - governo: 3
+ - congresso: 1
+
+FSP - 2006-07-24 2.rtf
+ - governo: 2
+ - congresso: 1
+
+FSP - 2006-07-24.rtf
+ - governo: 9
+
+FSP - 2006-07-26 2.rtf
+ - governo: 2
+
+FSP - 2006-07-31.rtf
+ - congresso: 1
+
+FSP - 2006-08-04 2.rtf
+ - governo: 2
+ - congresso: 2
+
+FSP - 2006-08-04.rtf
+ - governo: 1
+
+FSP - 2006-08-05 2.rtf
+ - governo: 3
+
+FSP - 2006-08-05.rtf
+ - governo: 1
+ - congresso: 1
+
+FSP - 2006-08-10.rtf
+ - congresso: 1
+
+FSP - 2006-08-14 2.rtf
+ - congresso: 1
+
+FSP - 2006-08-16 2.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2006-08-16 3.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2006-08-16 4.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2006-08-20.rtf
+ - governo: 2
+
+FSP - 2006-08-21 3.rtf
+ - governo: 1
+
+FSP - 2006-08-21.rtf
+ - governo: 2
+
+FSP - 2006-08-22.rtf
+ - governo: 1
+
+FSP - 2006-08-24.rtf
+ - governo: 8
+
+FSP - 2006-08-26.rtf
+ - governo: 1
+
+FSP - 2006-08-30.rtf
+ - congresso: 1
+ - governo: 5
+
+FSP - 2006-08-31.rtf
+ - governo: 1
+
+FSP - 2006-09-03 2.rtf
+ - governo: 2
+
+FSP - 2006-09-03.rtf
+ - governo: 1
+
+FSP - 2006-09-09.rtf
+ - governo: 1
+
+FSP - 2006-09-15.rtf
+ - congresso: 1
+
+FSP - 2006-09-25 2.rtf
+ - governo: 4
+ - congresso: 2
+
+FSP - 2006-09-25.rtf
+ - governo: 8
+ - congresso: 2
+
+FSP - 2006-10-11.rtf
+ - congresso: 1
+
+FSP - 2006-10-18.rtf
+ - governo: 1
+
+FSP - 2006-10-23.rtf
+ - governo: 18
+ - congresso: 4
+
+FSP - 2006-10-24 2.rtf
+ - governo: 1
+ - congresso: 1
+
+FSP - 2006-10-24 4.rtf
+ - governo: 1
+
+FSP - 2006-11-18 4.rtf
+ - governo: 22
+
+FSP - 2006-11-18 6.rtf
+ - governo: 1
+
+FSP - 2006-11-20 2.rtf
+ - governo: 1
+
+FSP - 2006-11-20.rtf
+ - congresso: 1
+
+FSP - 2006-11-21.rtf
+ - congresso: 1
+
+FSP - 2006-11-24.rtf
+ - congresso: 1
+
+FSP - 2007-02-11.rtf
+ - governo: 3
+
+FSP - 2007-03-16.rtf
+ - governo: 7
+ - congresso: 1
+
+FSP - 2007-03-19 4.rtf
+ - governo: 2
+ - congresso: 1
+
+FSP - 2007-03-19.rtf
+ - governo: 3
+
+FSP - 2007-04-01 4.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2007-06-03 2.rtf
+ - governo: 3
+
+FSP - 2007-06-16 2.rtf
+ - congresso: 3
+ - governo: 1
+
+FSP - 2007-06-16.rtf
+ - congresso: 1
+
+FSP - 2007-06-26.rtf
+ - governo: 1
+
+FSP - 2007-09-10.rtf
+ - congresso: 1
+
+FSP - 2007-10-02.rtf
+ - governo: 1
+
+FSP - 2007-10-07.rtf
+ - governo: 3
+
+FSP - 2007-10-14.rtf
+ - governo: 1
+ - congresso: 1
+
+FSP - 2007-10-22.rtf
+ - governo: 2
+
+FSP - 2007-11-14.rtf
+ - governo: 1
+
+FSP - 2007-11-20.rtf
+ - governo: 4
+
+FSP - 2007-11-21.rtf
+ - governo: 4
+ - congresso: 1
+
+FSP - 2007-12-18.rtf
+ - congresso: 2
+ - governo: 1
+
+FSP - 2008-02-01.rtf
+ - governo: 5
+
+FSP - 2008-05-05.rtf
+ - governo: 1
+
+FSP - 2008-05-13 4.rtf
+ - governo: 1
+
+FSP - 2008-05-13 6.rtf
+ - governo: 1
+
+FSP - 2008-05-16.rtf
+ - governo: 1
+ - congresso: 2
+
+FSP - 2008-05-19.rtf
+ - governo: 1
+ - congresso: 1
+
+FSP - 2008-06-03.rtf
+ - governo: 2
+
+FSP - 2008-06-19.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2008-06-24.rtf
+ - governo: 2
+
+FSP - 2008-07-02 2.rtf
+ - governo: 1
+
+FSP - 2008-07-02.rtf
+ - governo: 6
+ - congresso: 4
+
+FSP - 2008-07-03 2.rtf
+ - congresso: 1
+
+FSP - 2008-07-03 3.rtf
+ - governo: 2
+
+FSP - 2008-07-03.rtf
+ - governo: 1
+
+FSP - 2008-08-06.rtf
+ - governo: 4
+
+FSP - 2008-09-13 2.rtf
+ - congresso: 1
+ - governo: 2
+
+FSP - 2008-09-13.rtf
+ - congresso: 1
+ - governo: 2
+
+FSP - 2008-09-25.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2008-11-03.rtf
+ - governo: 1
+
+FSP - 2008-11-05.rtf
+ - governo: 4
+ - congresso: 2
+
+FSP - 2008-11-19 2.rtf
+ - governo: 3
+
+FSP - 2008-11-19.rtf
+ - governo: 1
+
+FSP - 2008-11-20.rtf
+ - governo: 1
+
+FSP - 2008-11-21 2.rtf
+ - governo: 1
+
+FSP - 2008-11-22 2.rtf
+ - congresso: 1
+
+FSP - 2008-11-22 5.rtf
+ - governo: 1
+
+FSP - 2008-11-23 15.rtf
+ - governo: 3
+
+FSP - 2008-11-23 18.rtf
+ - governo: 2
+
+FSP - 2008-11-23 20.rtf
+ - governo: 1
+
+FSP - 2008-11-23 4.rtf
+ - governo: 1
+
+FSP - 2008-11-23 6.rtf
+ - governo: 1
+
+FSP - 2008-12-26 3.rtf
+ - governo: 3
+ - congresso: 1
+
+FSP - 2008-12-26 4.rtf
+ - governo: 3
+ - congresso: 1
+
+FSP - 2008-12-26 5.rtf
+ - governo: 1
+
+FSP - 2009-01-01.rtf
+ - governo: 2
+
+FSP - 2009-04-05.rtf
+ - governo: 5
+
+FSP - 2009-04-07.rtf
+ - governo: 1
+
+FSP - 2009-04-12 2.rtf
+ - governo: 1
+
+FSP - 2009-04-17.rtf
+ - congresso: 2
+
+FSP - 2009-04-19.rtf
+ - governo: 4
+ - congresso: 1
+
+FSP - 2009-04-21.rtf
+ - congresso: 1
+ - governo: 1
+
+FSP - 2009-04-26.rtf
+ - governo: 2
+
+FSP - 2009-04-27 2.rtf
+ - congresso: 2
+ - governo: 5
+
+FSP - 2009-04-30.rtf
+ - governo: 1
+
+FSP - 2009-09-13.rtf
+ - governo: 1
+
+GLB - 2001-03-31.rtf
+ - governo: 2
+
+GLB - 2001-04-08.rtf
+ - congresso: 3
+ - governo: 3
+
+GLB - 2001-08-24.rtf
+ - governo: 5
+
+GLB - 2001-08-26 3.rtf
+ - governo: 5
+
+GLB - 2001-08-26.rtf
+ - governo: 7
+ - congresso: 1
+
+GLB - 2001-08-27 3.rtf
+ - governo: 8
+
+GLB - 2001-08-27.rtf
+ - governo: 5
+
+GLB - 2001-08-28.rtf
+ - governo: 3
+
+GLB - 2001-08-29 2.rtf
+ - governo: 1
+
+GLB - 2001-08-30 2.rtf
+ - governo: 5
+
+GLB - 2001-09-01.rtf
+ - governo: 2
+
+GLB - 2001-09-05.rtf
+ - governo: 2
+
+GLB - 2001-09-08.rtf
+ - congresso: 1
+ - governo: 3
+
+GLB - 2001-09-09 2.rtf
+ - governo: 5
+
+GLB - 2001-09-09 3.rtf
+ - governo: 6
+
+GLB - 2001-09-09.rtf
+ - governo: 2
+
+GLB - 2001-11-12.rtf
+ - governo: 1
+
+GLB - 2001-11-21.rtf
+ - governo: 1
+
+GLB - 2001-11-25.rtf
+ - governo: 1
+
+GLB - 2001-12-07.rtf
+ - governo: 1
+
+GLB - 2001-12-09 2.rtf
+ - governo: 1
+
+GLB - 2001-12-09 3.rtf
+ - governo: 2
+
+GLB - 2001-12-09.rtf
+ - governo: 7
+
+GLB - 2001-12-11.rtf
+ - governo: 3
+
+GLB - 2001-12-12.rtf
+ - governo: 2
+
+GLB - 2001-12-14.rtf
+ - congresso: 1
+
+GLB - 2001-12-15 2.rtf
+ - governo: 1
+
+GLB - 2001-12-15 5.rtf
+ - governo: 1
+
+GLB - 2001-12-15 6.rtf
+ - governo: 1
+
+GLB - 2001-12-15.rtf
+ - governo: 5
+
+GLB - 2001-12-21 2.rtf
+ - governo: 1
+
+GLB - 2001-12-21.rtf
+ - governo: 2
+
+GLB - 2001-12-22.rtf
+ - governo: 2
+
+GLB - 2001-12-23.rtf
+ - governo: 10
+
+GLB - 2002-01-02.rtf
+ - governo: 4
+
+GLB - 2002-01-19.rtf
+ - governo: 2
+
+GLB - 2002-02-02.rtf
+ - governo: 4
+
+GLB - 2002-02-08.rtf
+ - governo: 11
+
+GLB - 2002-03-22.rtf
+ - governo: 1
+
+GLB - 2002-04-09.rtf
+ - governo: 4
+
+GLB - 2002-04-15.rtf
+ - governo: 3
+
+GLB - 2002-04-19.rtf
+ - governo: 1
+
+GLB - 2002-05-11 2.rtf
+ - governo: 4
+ - congresso: 1
+
+GLB - 2002-05-11.rtf
+ - governo: 11
+ - congresso: 3
+
+GLB - 2002-05-14 2.rtf
+ - governo: 7
+ - congresso: 2
+
+GLB - 2002-05-14.rtf
+ - governo: 3
+
+GLB - 2002-05-15 3.rtf
+ - governo: 1
+
+GLB - 2002-05-15.rtf
+ - governo: 1
+
+GLB - 2002-05-16 2.rtf
+ - governo: 1
+
+GLB - 2002-05-16 3.rtf
+ - governo: 1
+
+GLB - 2002-05-16 5.rtf
+ - governo: 1
+
+GLB - 2002-07-26.rtf
+ - governo: 13
+
+GLB - 2002-08-09.rtf
+ - governo: 6
+
+GLB - 2002-08-18.rtf
+ - governo: 2
+ - congresso: 4
+
+GLB - 2002-09-17a.rtf
+ - governo: 1
+
+GLB - 2002-09-17b.rtf
+ - governo: 1
+
+GLB - 2002-11-14.rtf
+ - governo: 4
+
+GLB - 2002-11-17.rtf
+ - governo: 1
+
+GLB - 2002-12-13.rtf
+ - governo: 2
+
+GLB - 2002-12-22.rtf
+ - governo: 2
+
+GLB - 2002-12-31.rtf
+ - governo: 4
+
+GLB - 2003-01-16.rtf
+ - governo: 2
+
+GLB - 2003-01-18.rtf
+ - governo: 1
+
+GLB - 2003-02-11 2.rtf
+ - congresso: 3
+ - governo: 6
+
+GLB - 2003-02-15 2.rtf
+ - governo: 1
+
+GLB - 2003-02-16 2.rtf
+ - governo: 1
+
+GLB - 2003-02-18 2.rtf
+ - governo: 1
+
+GLB - 2003-02-19 6.rtf
+ - governo: 1
+
+GLB - 2003-02-28 3.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2003-02-28 5.rtf
+ - governo: 1
+
+GLB - 2003-03-09 2.rtf
+ - governo: 1
+
+GLB - 2003-03-12 2.rtf
+ - governo: 1
+
+GLB - 2003-03-14 4.rtf
+ - governo: 2
+
+GLB - 2003-03-22.rtf
+ - governo: 8
+
+GLB - 2003-03-26.rtf
+ - governo: 11
+
+GLB - 2003-05-08 2.rtf
+ - governo: 1
+
+GLB - 2003-05-11.rtf
+ - governo: 3
+
+GLB - 2003-05-14.rtf
+ - governo: 4
+ - congresso: 1
+
+GLB - 2003-05-16.rtf
+ - governo: 1
+
+GLB - 2003-05-17 2.rtf
+ - governo: 5
+
+GLB - 2003-05-22.rtf
+ - governo: 1
+
+GLB - 2003-07-05.rtf
+ - congresso: 2
+
+GLB - 2003-07-20 2.rtf
+ - congresso: 1
+
+GLB - 2003-07-20 3.rtf
+ - governo: 5
+
+GLB - 2003-07-22.rtf
+ - governo: 1
+
+GLB - 2003-07-23.rtf
+ - governo: 1
+
+GLB - 2003-07-24.rtf
+ - governo: 3
+
+GLB - 2003-07-25 3.rtf
+ - governo: 5
+
+GLB - 2003-07-26.rtf
+ - governo: 2
+
+GLB - 2003-08-06.rtf
+ - governo: 1
+
+GLB - 2003-08-12.rtf
+ - governo: 3
+
+GLB - 2003-09-09.rtf
+ - governo: 2
+
+GLB - 2003-09-27.rtf
+ - governo: 1
+
+GLB - 2003-09-30 2.rtf
+ - governo: 3
+
+GLB - 2003-12-03.rtf
+ - congresso: 2
+ - governo: 1
+
+GLB - 2003-12-09.rtf
+ - governo: 3
+
+GLB - 2003-12-20.rtf
+ - governo: 1
+
+GLB - 2003-12-21.rtf
+ - governo: 18
+
+GLB - 2003-12-23 2.rtf
+ - governo: 1
+
+GLB - 2003-12-27 3.rtf
+ - governo: 1
+
+GLB - 2003-12-30 2.rtf
+ - governo: 2
+
+GLB - 2003-12-30 3.rtf
+ - governo: 4
+
+GLB - 2003-12-30.rtf
+ - governo: 1
+
+GLB - 2004-01-08.rtf
+ - governo: 2
+
+GLB - 2004-01-10.rtf
+ - governo: 1
+
+GLB - 2004-01-12.rtf
+ - governo: 5
+
+GLB - 2004-01-15.rtf
+ - governo: 1
+
+GLB - 2004-01-19 3.rtf
+ - governo: 1
+
+GLB - 2004-01-19.rtf
+ - governo: 1
+
+GLB - 2004-01-22.rtf
+ - governo: 8
+ - congresso: 2
+
+GLB - 2004-01-23.rtf
+ - congresso: 3
+ - governo: 1
+
+GLB - 2004-01-24 2.rtf
+ - governo: 2
+
+GLB - 2004-01-25.rtf
+ - governo: 16
+
+GLB - 2004-01-27.rtf
+ - governo: 2
+
+GLB - 2004-02-03.rtf
+ - governo: 2
+
+GLB - 2004-02-08 2.rtf
+ - governo: 1
+
+GLB - 2004-02-11 2.rtf
+ - governo: 1
+
+GLB - 2004-02-15.rtf
+ - governo: 3
+
+GLB - 2004-02-16.rtf
+ - governo: 3
+
+GLB - 2004-02-18 2.rtf
+ - governo: 4
+
+GLB - 2004-02-24 2.rtf
+ - congresso: 1
+ - governo: 3
+
+GLB - 2004-02-24.rtf
+ - governo: 1
+
+GLB - 2004-03-04.rtf
+ - governo: 4
+ - congresso: 2
+
+GLB - 2004-03-06 2.rtf
+ - governo: 4
+
+GLB - 2004-03-06.rtf
+ - governo: 1
+
+GLB - 2004-03-11 2.rtf
+ - governo: 1
+
+GLB - 2004-03-19 3.rtf
+ - governo: 1
+
+GLB - 2004-03-20.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2004-03-21 2.rtf
+ - congresso: 2
+ - governo: 5
+
+GLB - 2004-03-21 3.rtf
+ - governo: 5
+
+GLB - 2004-03-21.rtf
+ - governo: 1
+
+GLB - 2004-03-23 2.rtf
+ - congresso: 1
+
+GLB - 2004-03-23 3.rtf
+ - congresso: 3
+
+GLB - 2004-04-04 2.rtf
+ - governo: 3
+
+GLB - 2004-04-04 4.rtf
+ - governo: 2
+
+GLB - 2004-04-07.rtf
+ - governo: 6
+ - congresso: 8
+
+GLB - 2004-04-08 2.rtf
+ - congresso: 2
+ - governo: 3
+
+GLB - 2004-04-08 3.rtf
+ - congresso: 5
+ - governo: 4
+
+GLB - 2004-04-08.rtf
+ - governo: 3
+
+GLB - 2004-04-11 3.rtf
+ - governo: 1
+
+GLB - 2004-04-12.rtf
+ - congresso: 6
+ - governo: 3
+
+GLB - 2004-04-13.rtf
+ - governo: 1
+
+GLB - 2004-04-18 2.rtf
+ - congresso: 5
+ - governo: 5
+
+GLB - 2004-04-18.rtf
+ - governo: 8
+
+GLB - 2004-04-20.rtf
+ - governo: 2
+
+GLB - 2004-04-21 2.rtf
+ - governo: 8
+
+GLB - 2004-04-21.rtf
+ - governo: 1
+
+GLB - 2004-04-23.rtf
+ - governo: 1
+
+GLB - 2004-05-05.rtf
+ - congresso: 2
+ - governo: 3
+
+GLB - 2004-05-08.rtf
+ - governo: 2
+ - congresso: 1
+
+GLB - 2004-05-11 2.rtf
+ - congresso: 2
+ - governo: 2
+
+GLB - 2004-05-14 3.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2004-05-14.rtf
+ - governo: 2
+ - congresso: 2
+
+GLB - 2004-05-15 2.rtf
+ - governo: 1
+
+GLB - 2004-05-15 4.rtf
+ - governo: 7
+ - congresso: 3
+
+GLB - 2004-05-15 5.rtf
+ - governo: 1
+
+GLB - 2004-05-15.rtf
+ - governo: 7
+ - congresso: 3
+
+GLB - 2004-05-18 2.rtf
+ - governo: 1
+
+GLB - 2004-05-18 3.rtf
+ - congresso: 3
+ - governo: 3
+
+GLB - 2004-05-18.rtf
+ - congresso: 2
+ - governo: 2
+
+GLB - 2004-05-20.rtf
+ - congresso: 2
+ - governo: 1
+
+GLB - 2004-05-30.rtf
+ - governo: 4
+
+GLB - 2004-06-04 2.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2004-06-04.rtf
+ - governo: 2
+ - congresso: 1
+
+GLB - 2004-06-07.rtf
+ - congresso: 5
+ - governo: 3
+
+GLB - 2004-06-16.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2004-06-18.rtf
+ - governo: 1
+
+GLB - 2004-06-21.rtf
+ - governo: 3
+ - congresso: 1
+
+GLB - 2004-07-01 2.rtf
+ - governo: 1
+
+GLB - 2004-07-01.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2004-07-05 2.rtf
+ - governo: 2
+
+GLB - 2004-07-05.rtf
+ - governo: 1
+
+GLB - 2004-07-10.rtf
+ - governo: 6
+
+GLB - 2004-07-14 2.rtf
+ - governo: 1
+
+GLB - 2004-07-14 3.rtf
+ - governo: 3
+
+GLB - 2004-07-15.rtf
+ - governo: 1
+
+GLB - 2004-07-16.rtf
+ - governo: 1
+
+GLB - 2004-07-17 2.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2004-07-17 4.rtf
+ - governo: 11
+ - congresso: 1
+
+GLB - 2004-07-17.rtf
+ - governo: 1
+
+GLB - 2004-07-27.rtf
+ - governo: 1
+
+GLB - 2004-07-30.rtf
+ - governo: 1
+
+GLB - 2004-08-01.rtf
+ - governo: 2
+
+GLB - 2004-08-03.rtf
+ - governo: 8
+ - congresso: 2
+
+GLB - 2004-08-05 2.rtf
+ - congresso: 1
+
+GLB - 2004-08-05.rtf
+ - governo: 1
+
+GLB - 2004-08-06 2.rtf
+ - governo: 1
+
+GLB - 2004-08-06.rtf
+ - governo: 2
+
+GLB - 2004-08-11 2.rtf
+ - governo: 2
+
+GLB - 2004-08-13.rtf
+ - governo: 4
+
+GLB - 2004-08-14 3.rtf
+ - congresso: 1
+ - governo: 2
+
+GLB - 2004-08-18.rtf
+ - congresso: 3
+ - governo: 4
+
+GLB - 2004-08-19 2.rtf
+ - congresso: 1
+
+GLB - 2004-08-19.rtf
+ - governo: 1
+
+GLB - 2004-09-03.rtf
+ - congresso: 2
+ - governo: 4
+
+GLB - 2004-09-04.rtf
+ - governo: 5
+
+GLB - 2004-09-14 2.rtf
+ - governo: 1
+
+GLB - 2004-09-14.rtf
+ - governo: 4
+ - congresso: 2
+
+GLB - 2004-09-21.rtf
+ - governo: 3
+
+GLB - 2004-09-22 1.rtf
+ - governo: 2
+
+GLB - 2004-09-22.rtf
+ - congresso: 1
+ - governo: 2
+
+GLB - 2004-09-23 2.rtf
+ - governo: 1
+
+GLB - 2004-10-24 5.rtf
+ - governo: 1
+
+GLB - 2004-10-24.rtf
+ - congresso: 2
+ - governo: 1
+
+GLB - 2004-11-02.rtf
+ - governo: 1
+ - congresso: 1
+
+GLB - 2004-11-12.rtf
+ - governo: 2
+
+GLB - 2004-11-14 3.rtf
+ - congresso: 2
+ - governo: 7
+
+GLB - 2004-11-14.rtf
+ - governo: 1
+
+GLB - 2004-11-30.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2004-12-07.rtf
+ - congresso: 2
+ - governo: 3
+
+GLB - 2004-12-20 2.rtf
+ - governo: 1
+
+GLB - 2004-12-20.rtf
+ - governo: 1
+
+GLB - 2004-12-27 2.rtf
+ - congresso: 1
+
+GLB - 2004-12-27 4.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2004-12-28.rtf
+ - governo: 5
+
+GLB - 2005-01-08 2.rtf
+ - governo: 4
+
+GLB - 2005-01-08.rtf
+ - governo: 6
+
+GLB - 2005-01-14.rtf
+ - governo: 3
+
+GLB - 2005-01-16.rtf
+ - governo: 1
+
+GLB - 2005-01-17 2.rtf
+ - governo: 3
+
+GLB - 2005-01-17.rtf
+ - governo: 3
+
+GLB - 2005-01-25.rtf
+ - governo: 4
+
+GLB - 2005-01-26.rtf
+ - governo: 4
+ - congresso: 1
+
+GLB - 2005-01-27.rtf
+ - governo: 1
+
+GLB - 2005-01-28.rtf
+ - governo: 8
+
+GLB - 2005-03-05.rtf
+ - governo: 1
+
+GLB - 2005-03-12 2.rtf
+ - governo: 3
+
+GLB - 2005-03-12.rtf
+ - governo: 4
+
+GLB - 2005-03-14 3.rtf
+ - governo: 1
+
+GLB - 2005-03-14.rtf
+ - governo: 1
+
+GLB - 2005-03-15 2.rtf
+ - governo: 4
+
+GLB - 2005-03-15.rtf
+ - congresso: 2
+
+GLB - 2005-03-18.rtf
+ - congresso: 1
+
+GLB - 2005-03-20.rtf
+ - governo: 5
+
+GLB - 2005-03-21.rtf
+ - governo: 1
+
+GLB - 2005-03-22 2.rtf
+ - congresso: 1
+
+GLB - 2005-04-07.rtf
+ - governo: 4
+
+GLB - 2005-05-29.rtf
+ - governo: 1
+
+GLB - 2005-05-31.rtf
+ - congresso: 6
+ - governo: 4
+
+GLB - 2005-06-01 2.rtf
+ - governo: 7
+
+GLB - 2005-06-01.rtf
+ - governo: 7
+ - congresso: 2
+
+GLB - 2005-06-03 2.rtf
+ - congresso: 3
+
+GLB - 2005-06-03.rtf
+ - congresso: 1
+
+GLB - 2005-06-18.rtf
+ - governo: 3
+ - congresso: 1
+
+GLB - 2005-07-27.rtf
+ - congresso: 1
+ - governo: 2
+
+GLB - 2005-07-30.rtf
+ - congresso: 1
+
+GLB - 2005-09-25.rtf
+ - congresso: 1
+
+GLB - 2005-09-26.rtf
+ - governo: 1
+
+GLB - 2005-10-26.rtf
+ - governo: 1
+
+GLB - 2005-11-15.rtf
+ - governo: 5
+
+GLB - 2005-11-19 2.rtf
+ - congresso: 2
+ - governo: 11
+
+GLB - 2005-11-29 2.rtf
+ - governo: 5
+
+GLB - 2005-11-29.rtf
+ - governo: 1
+ - congresso: 1
+
+GLB - 2005-11-30.rtf
+ - governo: 1
+
+GLB - 2005-12-08.rtf
+ - congresso: 1
+
+GLB - 2005-12-29 2.rtf
+ - governo: 1
+
+GLB - 2005-12-29.rtf
+ - governo: 2
+ - congresso: 1
+
+GLB - 2006-01-02 2.rtf
+ - governo: 1
+
+GLB - 2006-01-05.rtf
+ - congresso: 1
+
+GLB - 2006-01-11.rtf
+ - governo: 4
+ - congresso: 3
+
+GLB - 2006-01-29 2.rtf
+ - governo: 1
+
+GLB - 2006-01-29.rtf
+ - congresso: 1
+
+GLB - 2006-02-09 2.rtf
+ - governo: 5
+
+GLB - 2006-02-10 11.rtf
+ - governo: 1
+
+GLB - 2006-02-10 14.rtf
+ - governo: 1
+
+GLB - 2006-02-10 16.rtf
+ - governo: 1
+
+GLB - 2006-02-10 18.rtf
+ - governo: 1
+
+GLB - 2006-02-10 2.rtf
+ - governo: 1
+
+GLB - 2006-02-10 3.rtf
+ - governo: 1
+
+GLB - 2006-02-10 4.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2006-02-10 6.rtf
+ - governo: 1
+
+GLB - 2006-02-10 7.rtf
+ - congresso: 2
+
+GLB - 2006-02-10 8.rtf
+ - governo: 2
+
+GLB - 2006-02-10.rtf
+ - governo: 2
+
+GLB - 2006-02-11 10.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2006-02-11 11.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2006-02-11 14.rtf
+ - governo: 1
+
+GLB - 2006-02-11 5.rtf
+ - congresso: 2
+
+GLB - 2006-02-11 7.rtf
+ - governo: 9
+ - congresso: 1
+
+GLB - 2006-02-11 9.rtf
+ - governo: 1
+
+GLB - 2006-02-12.rtf
+ - governo: 1
+
+GLB - 2006-02-14 3.rtf
+ - congresso: 5
+ - governo: 1
+
+GLB - 2006-02-14.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2006-02-16.rtf
+ - governo: 6
+ - congresso: 3
+
+GLB - 2006-02-21 3.rtf
+ - governo: 1
+
+GLB - 2006-02-21.rtf
+ - governo: 1
+
+GLB - 2006-02-28 2.rtf
+ - governo: 1
+
+GLB - 2006-02-28 3.rtf
+ - governo: 1
+
+GLB - 2006-03-01 2.rtf
+ - governo: 4
+
+GLB - 2006-03-01.rtf
+ - governo: 6
+
+GLB - 2006-03-09.rtf
+ - governo: 2
+
+GLB - 2006-03-27.rtf
+ - congresso: 1
+
+GLB - 2006-03-30.rtf
+ - governo: 2
+
+GLB - 2006-04-02 2.rtf
+ - governo: 1
+
+GLB - 2006-04-04.rtf
+ - governo: 4
+
+GLB - 2006-04-09 2.rtf
+ - congresso: 3
+
+GLB - 2006-04-09.rtf
+ - governo: 8
+
+GLB - 2006-04-10.rtf
+ - congresso: 1
+ - governo: 4
+
+GLB - 2006-04-11.rtf
+ - governo: 4
+
+GLB - 2006-04-26.rtf
+ - congresso: 1
+ - governo: 4
+
+GLB - 2006-04-27.rtf
+ - congresso: 1
+
+GLB - 2006-05-04 2.rtf
+ - congresso: 2
+
+GLB - 2006-05-04.rtf
+ - governo: 1
+
+GLB - 2006-06-04.rtf
+ - governo: 2
+
+GLB - 2006-06-08.rtf
+ - congresso: 7
+ - governo: 2
+
+GLB - 2006-06-09.rtf
+ - congresso: 9
+ - governo: 9
+
+GLB - 2006-06-26 2.rtf
+ - governo: 1
+
+GLB - 2006-06-30.rtf
+ - congresso: 3
+ - governo: 1
+
+GLB - 2006-07-01 2.rtf
+ - governo: 1
+ - congresso: 2
+
+GLB - 2006-07-01 4.rtf
+ - governo: 1
+
+GLB - 2006-07-01 8.rtf
+ - governo: 1
+
+GLB - 2006-07-05 2.rtf
+ - congresso: 3
+
+GLB - 2006-07-05.rtf
+ - congresso: 2
+ - governo: 1
+
+GLB - 2006-07-06 2.rtf
+ - congresso: 2
+ - governo: 4
+
+GLB - 2006-07-08 1.rtf
+ - governo: 2
+
+GLB - 2006-07-09.rtf
+ - governo: 3
+
+GLB - 2006-07-10.rtf
+ - governo: 11
+ - congresso: 2
+
+GLB - 2006-07-11 2.rtf
+ - congresso: 2
+ - governo: 12
+
+GLB - 2006-07-11 3.rtf
+ - governo: 1
+
+GLB - 2006-07-11 4.rtf
+ - governo: 6
+
+GLB - 2006-07-12 2.rtf
+ - governo: 6
+ - congresso: 2
+
+GLB - 2006-07-12.rtf
+ - governo: 8
+ - congresso: 1
+
+GLB - 2006-07-14 2.rtf
+ - congresso: 1
+
+GLB - 2006-07-16.rtf
+ - governo: 2
+
+GLB - 2006-07-24 3.rtf
+ - congresso: 5
+ - governo: 1
+
+GLB - 2006-07-24 4.rtf
+ - governo: 9
+ - congresso: 1
+
+GLB - 2006-07-25 2.rtf
+ - congresso: 1
+
+GLB - 2006-08-02 2.rtf
+ - governo: 4
+
+GLB - 2006-08-03 2.rtf
+ - governo: 4
+ - congresso: 2
+
+GLB - 2006-08-03.rtf
+ - congresso: 3
+ - governo: 3
+
+GLB - 2006-08-09.rtf
+ - governo: 5
+
+GLB - 2006-08-19.rtf
+ - governo: 2
+
+GLB - 2006-08-23.rtf
+ - governo: 3
+
+GLB - 2006-08-24.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2006-08-27.rtf
+ - governo: 2
+
+GLB - 2006-08-29 2.rtf
+ - governo: 11
+
+GLB - 2006-08-29 3.rtf
+ - governo: 7
+
+GLB - 2006-08-29 4.rtf
+ - governo: 14
+ - congresso: 1
+
+GLB - 2006-08-30.rtf
+ - congresso: 11
+ - governo: 19
+
+GLB - 2006-09-01.rtf
+ - congresso: 3
+ - governo: 9
+
+GLB - 2006-09-03.rtf
+ - governo: 5
+
+GLB - 2006-09-07.rtf
+ - governo: 1
+
+GLB - 2006-09-10 2.rtf
+ - governo: 7
+ - congresso: 1
+
+GLB - 2006-09-10.rtf
+ - governo: 7
+
+GLB - 2006-09-24.rtf
+ - governo: 1
+
+GLB - 2006-10-15 2.rtf
+ - governo: 4
+
+GLB - 2006-10-15.rtf
+ - congresso: 1
+ - governo: 7
+
+GLB - 2006-10-20.rtf
+ - governo: 1
+
+GLB - 2006-11-04.rtf
+ - governo: 3
+ - congresso: 1
+
+GLB - 2006-11-30.rtf
+ - congresso: 1
+
+GLB - 2007-01-08 2.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2007-01-08.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2007-02-04.rtf
+ - congresso: 8
+ - governo: 2
+
+GLB - 2007-02-15.rtf
+ - governo: 6
+
+GLB - 2007-02-18 2.rtf
+ - governo: 1
+
+GLB - 2007-03-25 2.rtf
+ - governo: 7
+
+GLB - 2007-04-02.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2007-04-12.rtf
+ - governo: 1
+
+GLB - 2007-04-28.rtf
+ - congresso: 1
+
+GLB - 2007-04-29.rtf
+ - governo: 1
+
+GLB - 2007-05-20 2.rtf
+ - governo: 3
+ - congresso: 1
+
+GLB - 2007-05-20.rtf
+ - governo: 4
+
+GLB - 2007-07-01.rtf
+ - governo: 1
+
+GLB - 2007-07-29.rtf
+ - governo: 4
+
+GLB - 2007-08-14.rtf
+ - governo: 4
+
+GLB - 2007-08-16.rtf
+ - governo: 1
+
+GLB - 2007-08-24.rtf
+ - governo: 3
+
+GLB - 2007-09-15 2.rtf
+ - governo: 2
+
+GLB - 2007-10-07.rtf
+ - congresso: 1
+
+GLB - 2007-10-28 2.rtf
+ - congresso: 2
+
+GLB - 2007-11-18.rtf
+ - governo: 1
+ - congresso: 2
+
+GLB - 2007-11-19.rtf
+ - congresso: 1
+
+GLB - 2007-11-20.rtf
+ - governo: 1
+
+GLB - 2007-11-21.rtf
+ - governo: 1
+
+GLB - 2007-11-27.rtf
+ - governo: 3
+
+GLB - 2007-11-28.rtf
+ - congresso: 5
+
+GLB - 2008-01-06 2.rtf
+ - governo: 1
+
+GLB - 2008-01-06.rtf
+ - governo: 1
+ - congresso: 1
+
+GLB - 2008-01-10.rtf
+ - governo: 2
+
+GLB - 2008-02-05.rtf
+ - governo: 3
+
+GLB - 2008-02-07.rtf
+ - governo: 3
+
+GLB - 2008-02-15.rtf
+ - governo: 1
+
+GLB - 2008-02-18.rtf
+ - governo: 1
+
+GLB - 2008-02-21.rtf
+ - governo: 3
+
+GLB - 2008-02-29.rtf
+ - governo: 8
+
+GLB - 2008-03-10.rtf
+ - governo: 1
+
+GLB - 2008-03-23.rtf
+ - governo: 1
+
+GLB - 2008-05-01 2.rtf
+ - governo: 4
+
+GLB - 2008-05-02 2.rtf
+ - governo: 8
+
+GLB - 2008-05-04 2.rtf
+ - governo: 1
+
+GLB - 2008-05-14.rtf
+ - governo: 1
+
+GLB - 2008-05-18.rtf
+ - governo: 1
+
+GLB - 2008-06-17.rtf
+ - governo: 6
+
+GLB - 2008-06-26.rtf
+ - governo: 3
+
+GLB - 2008-07-05.rtf
+ - governo: 3
+
+GLB - 2008-07-27.rtf
+ - congresso: 1
+
+GLB - 2008-08-03.rtf
+ - governo: 3
+
+GLB - 2008-08-04.rtf
+ - governo: 3
+
+GLB - 2008-08-09.rtf
+ - governo: 3
+
+GLB - 2008-08-25.rtf
+ - congresso: 2
+ - governo: 1
+
+GLB - 2008-09-08.rtf
+ - congresso: 2
+
+GLB - 2008-09-10.rtf
+ - governo: 1
+
+GLB - 2008-09-23.rtf
+ - governo: 4
+
+GLB - 2008-09-28.rtf
+ - governo: 2
+
+GLB - 2008-10-01.rtf
+ - governo: 2
+
+GLB - 2008-10-30.rtf
+ - governo: 1
+
+GLB - 2008-10-31 2.rtf
+ - governo: 1
+
+GLB - 2008-10-31.rtf
+ - governo: 2
+
+GLB - 2008-11-21 2.rtf
+ - congresso: 1
+ - governo: 3
+
+GLB - 2008-11-21 3.rtf
+ - governo: 2
+
+GLB - 2008-11-22 2.rtf
+ - governo: 1
+
+GLB - 2008-11-22 3.rtf
+ - congresso: 1
+
+GLB - 2008-11-24.rtf
+ - governo: 3
+
+GLB - 2008-11-26.rtf
+ - governo: 2
+
+GLB - 2008-12-04.rtf
+ - governo: 4
+
+GLB - 2008-12-06.rtf
+ - governo: 2
+
+GLB - 2008-12-15.rtf
+ - congresso: 2
+
+GLB - 2008-12-16 2.rtf
+ - governo: 1
+
+GLB - 2008-12-16.rtf
+ - governo: 2
+ - congresso: 1
+
+GLB - 2008-12-17 2.rtf
+ - congresso: 2
+
+GLB - 2008-12-17.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2008-12-18.rtf
+ - congresso: 1
+
+GLB - 2008-12-19.rtf
+ - governo: 1
+ - congresso: 2
+
+GLB - 2009-02-02.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2009-02-08.rtf
+ - congresso: 1
+ - governo: 2
+
+GLB - 2009-02-22.rtf
+ - governo: 2
+ - congresso: 1
+
+GLB - 2009-03-08.rtf
+ - congresso: 1
+ - governo: 2
+
+GLB - 2009-03-12.rtf
+ - congresso: 2
+ - governo: 1
+
+GLB - 2009-03-17.rtf
+ - governo: 2
+ - congresso: 2
+
+GLB - 2009-03-19 1.rtf
+ - governo: 6
+ - congresso: 1
+
+GLB - 2009-03-22 1.rtf
+ - governo: 1
+
+GLB - 2009-03-28.rtf
+ - governo: 1
+
+GLB - 2009-04-02 1.rtf
+ - congresso: 1
+
+GLB - 2009-04-12.rtf
+ - governo: 1
+ - congresso: 1
+
+GLB - 2009-04-13.rtf
+ - governo: 1
+ - congresso: 1
+
+GLB - 2009-05-06.rtf
+ - governo: 1
+
+GLB - 2009-05-08.rtf
+ - congresso: 2
+
+GLB - 2009-05-16.rtf
+ - congresso: 1
+
+GLB - 2009-05-18.rtf
+ - governo: 1
+
+GLB - 2009-05-23.rtf
+ - congresso: 3
+ - governo: 5
+
+GLB - 2009-05-28 1.rtf
+ - congresso: 1
+
+GLB - 2009-05-28.rtf
+ - governo: 1
+
+GLB - 2009-05-29 1.rtf
+ - governo: 3
+ - congresso: 1
+
+GLB - 2009-05-29.rtf
+ - governo: 1
+
+GLB - 2009-05-31.rtf
+ - governo: 4
+
+GLB - 2009-06-02 1.rtf
+ - governo: 1
+
+GLB - 2009-06-02.rtf
+ - governo: 1
+
+GLB - 2009-06-09.rtf
+ - governo: 3
+
+GLB - 2009-07-23.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2009-08-03 1.rtf
+ - congresso: 1
+ - governo: 2
+
+GLB - 2009-08-03 2.rtf
+ - congresso: 3
+ - governo: 1
+
+GLB - 2009-08-04.rtf
+ - governo: 1
+
+GLB - 2009-08-30.rtf
+ - governo: 1
+
+GLB - 2009-09-02.rtf
+ - governo: 2
+
+GLB - 2009-09-10.rtf
+ - congresso: 2
+ - governo: 2
+
+GLB - 2009-09-22.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2009-09-25.rtf
+ - congresso: 1
+ - governo: 1
+
+GLB - 2009-10-01.rtf
+ - governo: 1
+
+GLB - 2009-10-06.rtf
+ - congresso: 1
+
+GLB - 2009-10-12.rtf
+ - governo: 5
+
